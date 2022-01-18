@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to right, #00b09b, #96c93d);
+}
+
+h2{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: floralwhite;
+    text-align: center;
+    font-size: 50px;
+    border-style: double;
+    border-width: 10px;
+    border-color: crimson;
+}
+
+h3{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: crimson;
+    text-align: center;
+    font-size: 40px;
+}
+
+.form{
+    font-family: 'Licorice', cursive;
+    color: azure;
+    text-align: center;
+    font-size: 40px;
+}
+
+#link{
+    font-family: 'Josefin Sans', sans-serif;
+    color: azure;
+    font-size: 30px;
+}
+
+img{
+    display : block;
+    margin-left: auto; 
+    margin-right: auto;
+    height:400px;
+    width:500px;
+}
+
+#img:hover{
+    height:500px;
+    width:800px;
+}
+
+#unico{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: brown;
+    text-align: center;
+    font-size: 25px;
+}
